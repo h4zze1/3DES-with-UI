@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="statsic">
+    <file>stastic/bg_main.png</file>
+    <file>stastic/bg_text.png</file>
+    <file>stastic/btn_de.png</file>
+    <file>stastic/btn_en.png</file>
+    <file>stastic/icon.png</file>
+  </qresource>
+</RCC>
